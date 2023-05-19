@@ -68,8 +68,8 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 </p>    
 <h3> Photo & video </h3>
 <p align="left">
-<i class="devicon-aftereffects-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="php" width="45" height="45"/ />
           
 </p>    
 
