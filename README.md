@@ -51,7 +51,6 @@ fields_of_interests:
     "filmmaking",
     "photography",
     "marketing"
-    "travel",
     ]
 technical_background:
   [
