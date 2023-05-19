@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone!&fontSize=90)
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone!&fontSize=90" />
+</p>
 
 <p align="center">
 <img height="200" src="https://media.tenor.com/6xgziLBgq5IAAAAC/animated-cat.gif"/>
