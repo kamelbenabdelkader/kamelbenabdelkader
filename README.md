@@ -2,7 +2,7 @@
 
 <center><a href="https://www.instagram.com/bokehgraphe/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png"/>
-</a>
+</a></center>
 <a href="https://www.linkedin.com/in/kamel-ben-abdelkader/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/512/social_linkedin_box_blue.png"/>
 </a></center>
