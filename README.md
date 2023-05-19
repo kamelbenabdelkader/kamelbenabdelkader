@@ -9,3 +9,8 @@
 <a href="https://www.linkedin.com/in/kamel-ben-abdelkader/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/mobile-app-development-dazzle-vol-1/256/Dev_Environment-1024.png"/>
 </a>
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+JavaScript	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
