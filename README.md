@@ -23,6 +23,9 @@
 <a href="https://www.linkedin.com/in/kamel-ben-abdelkader/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/mobile-app-development-dazzle-vol-1/256/Dev_Environment-1024.png"/>
 </a>
+  <a href="https://www.linkedin.com/in/kamel-ben-abdelkader/">
+  <img height="50" src="https://simpleicons.org/icons/personio.svg"/>
+</a>
 </p>
 
 <h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
