@@ -11,3 +11,36 @@
 </a>
 
 <a>   <img height="400" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
+```yaml 
+name: BEN ABDELKADER Kamel
+located_in: Lyon, FRANCE
+current_job: AI developer
+education:
+  [
+   "Self-taught developer and designer",
+    "Bachelor+2 : Web and Mobile Developer ",
+    "Bachelor+4 : Artificial intelligence developer in work-study",,
+  ]
+company: Le1817
+
+fields_of_interests:
+  [
+    "Web development",
+    "Data Science",
+    "Machine learning",
+    "UI/UX",
+    "DevOps",
+    "filmmaking",
+    "photography",
+    "marketing"
+    "travel"
+technical_background:
+  [
+    "Web and mobile developer", 
+    "Internship - Data Science & Machine Learning in Pytho"
+  ]
+  
+currently_learning: ["Docker, Kubernetes, PowerBI, machine learning, deep learning"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "  "Travel"", "Skateboarding", "Art", "filmmaking","photography",]
+```
