@@ -33,7 +33,8 @@ fields_of_interests:
     "filmmaking",
     "photography",
     "marketing"
-    "travel"
+    "travel",
+    ]
 technical_background:
   [
     "Web and mobile developer", 
