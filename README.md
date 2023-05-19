@@ -77,7 +77,7 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 
 <h2> Some Tools I Have Used and Learned</h2>
 
-<h3> Global</h3>
+*<h3> Global</h3>*
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
