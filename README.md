@@ -126,6 +126,7 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="vscode" width="45" height="45"/>
 </p>            
 
+__<h3> Cloud Computing </h3>__
 <h3> Cloud Computing </h3>
 
 <p align="center">
