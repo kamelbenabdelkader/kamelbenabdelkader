@@ -19,7 +19,7 @@ education:
   [
    "Self-taught developer and designer",
     "Bachelor+2 : Web and Mobile Developer ",
-    "Bachelor+4 : Artificial intelligence developer in work-study",,
+    "Bachelor+4 : Artificial intelligence developer in work-study",
   ]
 company: Le1817
 
@@ -43,5 +43,5 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes, PowerBI, machine learning, deep learning"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "  "Travel"", "Skateboarding", "Art", "filmmaking","photography",]
+hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography"]
 ```
