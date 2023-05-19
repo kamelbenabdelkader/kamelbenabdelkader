@@ -103,9 +103,9 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="vscode" width="45" height="45"/> 
 </p> 
-**********
+
 *<h3> Dev Web </h3>*
-**********
+
 <h3> Dev Web </h3>
 
 <p align="center">
