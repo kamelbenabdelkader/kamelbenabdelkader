@@ -23,7 +23,7 @@
 </a>
 </p>
 
-<h2 align="left"> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
 ```yaml 
 name: BEN ABDELKADER Kamel
