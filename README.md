@@ -55,7 +55,7 @@ fields_of_interests:
 technical_background:
   [
     "Web and mobile developer", 
-    "Internship - Data Science & Machine Learning in Pytho"
+    "Internship - Data Science & Machine Learning in Python"
   ]
   
 currently_learning: ["Docker, Kubernetes, PowerBI, machine learning, deep learning"]
