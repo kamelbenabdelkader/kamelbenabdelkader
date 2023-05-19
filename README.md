@@ -3,9 +3,13 @@
 <p align="center">
 <a>   <img height="200" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
 </p>
-<p align="center">
+
+<span align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelbenabdelkader)](https://github.com/kamelbenabdelkader/github-readme-stats)
-</p>
+
+</span>
+
 <p align="center">
 <a href="https://www.instagram.com/bokehgraphe/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png"/>
