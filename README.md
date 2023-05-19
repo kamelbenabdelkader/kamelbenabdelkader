@@ -37,6 +37,8 @@ education:
     "Bachelor+2 : Web and Mobile Developer ",
     "Bachelor+4 : Artificial intelligence developer in work-study",
   ]
+ 
+school: Simplon
 company: Le1817
 
 fields_of_interests:
