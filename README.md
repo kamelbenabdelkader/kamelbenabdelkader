@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone!&fontSize=90)
 
 <p align="center">
+<a>   <img height="200" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
+</p>
+<p align="center">
 <a href="https://www.instagram.com/bokehgraphe/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png"/>
 </a>
@@ -12,9 +15,6 @@
 </a>
 </p>
 
-<p align="center">
-<a>   <img height="200" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
-</p>
 <h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
 ```yaml 
