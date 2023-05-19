@@ -113,7 +113,7 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 </p> 
 
 <h3> Dev Web</h3>
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="php" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="php" width="45" height="45"/>  
@@ -124,7 +124,7 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="php" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" alt="php" width="45" height="45"/>  
           
-          
+	![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original-wordmark.svg" alt="php" width="45" height="45"/>  
           
