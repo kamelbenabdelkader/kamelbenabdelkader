@@ -10,5 +10,4 @@
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/mobile-app-development-dazzle-vol-1/256/Dev_Environment-1024.png"/>
 </a>
 
-<a>   <img height="400" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
-<div class="tenor-gif-embed" data-postid="5912616" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/carlton-gif-5912616">Carlton GIF</a>from <a href="https://tenor.com/search/carlton-gifs">Carlton GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a>   <img height="400" src="https://tenor.com/fr/view/carlton-gif-5912616"/> </a>
