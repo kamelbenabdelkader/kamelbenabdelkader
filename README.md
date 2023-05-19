@@ -10,4 +10,4 @@
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/mobile-app-development-dazzle-vol-1/256/Dev_Environment-1024.png"/>
 </a>
 
-<iframe src="https://giphy.com/embed/gbmWwWm4sGMQvAYm1G" width="452" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CreuCat-dance-friends-cartoon-gbmWwWm4sGMQvAYm1G">via GIPHY</a></p>
+<a>   <img height="50" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
