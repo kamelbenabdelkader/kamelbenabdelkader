@@ -46,11 +46,11 @@ fields_of_interests:
     "Web development",
     "Data Science",
     "Machine learning",
-    "UI/UX",
     "DevOps",
+    "UI/UX",
+    "marketing",
     "filmmaking",
-    "photography",
-    "marketing"
+    "photography"
     ]
 technical_background:
   [
