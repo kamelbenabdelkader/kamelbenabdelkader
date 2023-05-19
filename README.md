@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone!&fontSize=90)
 
 <p align="center">
-<a>   <img height="200" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/> </a>
+<img height="200" src="https://media.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif"/>
+<img height="200" src=" https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966"/>
 </p>
 
 <span align="center">
