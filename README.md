@@ -7,7 +7,7 @@
 <span align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelbenabdelkader)](https://github.com/kamelbenabdelkader/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamelbenabdelkader&hide_progress=true)](https://github.com/kamelbenabdelkader/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamelbenabdelkader&layout=compact)](https://github.com/kamelbenabdelkader/github-readme-stats)
 </span>
 
 <p align="center">
