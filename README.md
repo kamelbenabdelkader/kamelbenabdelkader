@@ -89,7 +89,8 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="bash" width="45" height="45"/>
 </p>    
 
-<h3> Machine Learning / Deep Learning </h3>
+*<h3> Machine Learning / Deep Learning </h3>*
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="vscode" width="45" height="45"/>
@@ -105,8 +106,6 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 </p> 
 
 *<h3> Dev Web </h3>*
-
-<h3> Dev Web </h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="php" width="45" height="45"/>  
@@ -126,15 +125,14 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="vscode" width="45" height="45"/>
 </p>            
 
-__<h3> Cloud Computing </h3>__
-<h3> Cloud Computing </h3>
+*<h3> Cloud Computing </h3>*
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="vscode" width="45" height="45"/>       
 </p>   
 
-<h3> Photo & video </h3>
+*<h3> Photo & video </h3>*
 
 <p align="center">        
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="php" width="45" height="45"/> 
