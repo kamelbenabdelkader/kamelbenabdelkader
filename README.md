@@ -66,4 +66,4 @@ hobbies: ["Gaming", "Travel", "Skateboarding", "Art", "filmmaking", "photography
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>    
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelbenabdelkader)](https://github.com/kamelbenabdelkader/github-readme-stats)
+![Snake animation](https://github.com/kamelbenabdelkader/kamelbenabdelkader/blob/output/github-contribution-grid-snake.svg)
