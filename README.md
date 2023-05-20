@@ -24,7 +24,7 @@
   <img height="50" src="https://simpleicons.org/icons/personio.svg"/>
 </a>
 </p>
-<details open> 
+<details close> 
 <summary><h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2></summary>
 
 ```yaml 
