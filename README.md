@@ -24,7 +24,7 @@
   <img height="50" src="https://simpleicons.org/icons/personio.svg"/>
 </a>
 </p>
-
+<details open> 
 <h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
 ```yaml 
@@ -63,6 +63,7 @@ currently_learning: ["Docker, Kubernetes, PowerBI, machine learning, deep learni
 hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 
 ```
+</details>
 <h2> 🚀 &nbsp; Programming language that I learned and that I use</h2>
 
 <p align="center">
