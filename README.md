@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="https://github.com/benabdelkader/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=005&color=237AA1&background=FFFFFF00&width=435&lines=+Welcome+to+my+github;+I+am+kamel+BEN+ABDELKADER;Unleashing+the+power+of+collaborative+coding.;Discover%2C+contribute%2C+and+create+together.;Exploring+exciting+projects+and+sparking+inspiration" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=40&duration=3000&pause=300&color=237AA1&background=FFFFFF00&center=true&width=435&lines=+Welcome+to+my+github;+I+am+kamel+BEN+ABDELKADER;Exploring+exciting+projects+and+sparking+inspiration" alt="Typing SVG" /></a>
 </p>
 <span align="center">
   
