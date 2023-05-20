@@ -64,7 +64,9 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 
 ```
 </details>
-<h2> 🚀 &nbsp; Programming language that I learned and that I use</h2>
+
+<details open> 
+<summary><h2> 🚀 &nbsp; Programming language that I learned and that I use</h2></summary>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>        
@@ -76,7 +78,8 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="php" width="45" height="45"/>       
 </p>   
 <details open> 
-<summary><h2>💻 Some Tools I Have Used and Learned</h2></summary>
+  
+<h2>💻 Some Tools I Have Used and Learned</h2>
 
 *<h3> Global</h3>*
 
