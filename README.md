@@ -74,8 +74,8 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="php" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="php" width="45" height="45"/>       
 </p>   
-
-<h2>💻 Some Tools I Have Used and Learned</h2>
+<details open> 
+<summary><h2>💻 Some Tools I Have Used and Learned</h2></summary>
 
 *<h3> Global</h3>*
 
@@ -89,7 +89,7 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="bash" width="45" height="45"/>
 </p>    
 
-<summary><h3> Machine Learning / Deep Learning </h3></summary>
+<h3> Machine Learning / Deep Learning </h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>
@@ -142,6 +142,7 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="php" width="45" height="45"/>          
 </p>    
 
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
