@@ -147,8 +147,8 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 </p>    
 </details>
 
-  
+  <details open> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </p>
-
+ </details> 
