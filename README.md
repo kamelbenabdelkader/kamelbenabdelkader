@@ -145,7 +145,6 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="php" width="45" height="45"/>  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="php" width="45" height="45"/>          
 </p>    
-
 </details>
 
   
