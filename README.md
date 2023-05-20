@@ -93,7 +93,7 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="bash" width="45" height="45"/>
 </p>    
 
-<h3> Machine Learning / Deep Learning </h3>
+*<h3> Machine Learning / Deep Learning </h3>*
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>
@@ -148,6 +148,7 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 
 </details>
 
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </p>
