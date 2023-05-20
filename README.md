@@ -65,7 +65,7 @@ hobbies: ["Travel", "Art", "filmmaking", "photography","Gaming"]
 ```
 </details>
 
-<details open> 
+<details close> 
 <summary><h2> 🚀 &nbsp; Programming language that I learned and that I use</h2></summary>
 
 <p align="center">
